@@ -1,3 +1,11 @@
+---
+Members:
+Victorien Cambourian - victorien.cambourian@epita.fr
+Melvyn Delaroque - melvyn.delaroque@epita.fr
+Anthony Caron - anthony.caron@epita.fr
+Xavier de Place - xavier.de-place@epita.fr
+---
+
 # CarrEniX - Studio of *Bitume Legends*
 
 ### Welcome on the CarrEniX Organisation !
